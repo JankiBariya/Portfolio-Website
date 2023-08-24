@@ -63,7 +63,7 @@ const Navbar = () => {
               <Link href="/#projects">Projects</Link>
             </li>
             <li className="ml-10 text-sm uppercase hover:border-b">
-              <Link href="/resume">Resume</Link>
+              <a href="https://drive.google.com/file/d/1BYNpbnR4hUOXD1NiN5XUg0I_5MnaZAD4/view">Resume</a>
             </li>
             <li className="ml-10 text-sm uppercase hover:border-b">
               <Link href="/#contact">Contact</Link>
