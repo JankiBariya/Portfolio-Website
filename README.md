@@ -32,7 +32,7 @@ To run the website locally, follow these steps:
 
 ## Deployment
 
-The website is automatically deployed using Vercel whenever changes are pushed to the `main` branch. You can access the live version at [Portfolio]https://portfolio-website-rosy-sigma.vercel.app/ 
+The website is automatically deployed using Vercel whenever changes are pushed to the `main` branch. You can access the live version at [Portfolio](https://portfolio-website-rosy-sigma.vercel.app/) 
 
 
 
