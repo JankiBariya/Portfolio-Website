@@ -1,21 +1,45 @@
 Portfolio live on: https://portfolio-website-rosy-sigma.vercel.app/
 
+# My Portfolio Website
+
+Welcome to my portfolio website's GitHub repository! This repository contains the source code for my personal portfolio website built using Next.js and Tailwind CSS.
+
+## Overview
+
+This portfolio website serves as a showcase of my projects and work experiences as a full-stack developer. It highlights my skills, accomplishments, and provides an interactive way to explore my work.
+
+## Technologies Used
+
+- **Frontend:** Next.js, React, Tailwind CSS
+- **Deployment:** Vercel
+
+## Features
+
+- Clean and modern design
+- Responsive layout that works on various devices
+- Interactive project and work experience sections
+- Easy-to-update content
+
+## Getting Started
+
+To run the website locally, follow these steps:
+
+1. Clone this repository: `git clone https://github.com/your-username/your-portfolio.git`
+2. Navigate to the project directory: `cd your-portfolio`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm run dev`
+5. Open your browser and go to `http://localhost:3000`
+
+## Deployment
+
+The website is automatically deployed using Vercel whenever changes are pushed to the `main` branch. You can access the live version at https://portfolio-website-rosy-sigma.vercel.app/ 
 
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Contact
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Feel free to reach out to me if you have any questions or if you're interested in collaborating. You can find me on [LinkedIn](https://www.linkedin.com/in/your-name/) or [Twitter](https://twitter.com/jankitwts).
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Thank you for visiting my portfolio repository! I hope you enjoy exploring my work.
