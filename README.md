@@ -24,7 +24,7 @@ This portfolio website serves as a showcase of my projects and work experiences 
 
 To run the website locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/your-portfolio.git`
+1. Clone this repository: `git clone https://github.com/JankiBariya/Portfolio-Website.git`
 2. Navigate to the project directory: `cd your-portfolio`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
