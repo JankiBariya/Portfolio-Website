@@ -20,16 +20,6 @@ This portfolio website serves as a showcase of my projects and work experiences 
 - Interactive project and work experience sections
 - Easy-to-update content
 
-## Getting Started
-
-To run the website locally, follow these steps:
-
-1. Clone this repository: `git clone https://github.com/JankiBariya/Portfolio-Website.git`
-2. Navigate to the project directory: `cd your-portfolio`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm run dev`
-5. Open your browser and go to `http://localhost:3000`
-
 ## Deployment
 
 The website is automatically deployed using Vercel whenever changes are pushed to the `main` branch. You can access the live version at [Portfolio](https://portfolio-website-rosy-sigma.vercel.app/) 
